@@ -1,0 +1,6 @@
+docker pull registry.cn-hangzhou.aliyuncs.com/osoulmate/flannel:v0.10.0-amd64
+docker pull registry.cn-hangzhou.aliyuncs.com/osoulmate/kube-apiserver-amd64:v1.10.0 
+docker pull registry.cn-hangzhou.aliyuncs.com/osoulmate/kube-controller-manager-amd64:v1.10.0
+docker pull registry.cn-hangzhou.aliyuncs.com/osoulmate/kube-proxy-amd64:v1.10.0
+docker pull registry.cn-hangzhou.aliyuncs.com/osoulmate/kube-scheduler-amd64:v1.10.0
+docker pull registry.cn-hangzhou.aliyuncs.com/osoulmate/pause-amd64:3.0
